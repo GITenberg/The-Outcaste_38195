@@ -1,0 +1,29 @@
+_repo: The-Outcaste_38195
+_version: 0.1.0
+covers:
+- cover_type: archival
+  image_path: 38195-h/images/img-cover.jpg
+creator:
+  author:
+    agent_name: Penny, F. E. (Fanny Emily)
+    aliases:
+    - Penny, Fanny Emily
+    - Penny, Mrs. Frank
+    deathdate: 1939
+    gutenberg_agent_id: '39355'
+    url: http://www.gutenberg.org/2009/agents/39355
+description: ''
+gutenberg_issued: '2011-12-10'
+gutenberg_type: Text
+identifiers:
+  gutenberg: '38195'
+language: en
+publisher: Project Gutenberg
+rights: Public domain in the USA.
+rights_url: http://creativecommons.org/about/pdm
+subjects:
+- !lcc 'PR'
+- !lcsh 'Christianity, Conversion to -- Fiction'
+- !lcsh 'India -- History -- British occupation, 1765-1947 -- Fiction'
+title: The Outcaste
+url: http://www.gutenberg.org/ebooks/38195
